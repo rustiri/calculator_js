@@ -1,0 +1,17 @@
+.button{
+  background-color: #C6E2FF;
+  border: none;
+  color: black;
+  padding: 10px 22px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.operator{
+  padding-left: 15px;
+}
+
+#results{
+  padding-left: 15px;
+}
